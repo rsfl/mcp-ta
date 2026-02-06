@@ -2,7 +2,7 @@ Splunkbase link https://splunkbase.splunk.com/app/8377
 
 Splunk Technology Add-on for Model Context Protocol (MCP)
 
-Version: 0.1.1 Author: Rod Soto rod@rodsoto.net License: MIT Source: mcp:jsonrpc
+Version: 0.1.2 Author: Rod Soto rod@rodsoto.net License: MIT Source: mcp:jsonrpc
 
 OVERVIEW
 
